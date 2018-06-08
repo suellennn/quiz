@@ -1,0 +1,85 @@
+1-Quem são os profissionais em Segurança do Trabalho?
+=certa= Técnico de Segurança do Trabalho, Engenheiro de Segurança do Trabalho, Médico do Trabalho e Enfermeiro do Trabalho.
+
+=errada= Técnico de Segurança do Trabalho, Engenheiro Químico, Médico do Trabalho e Enfermeiro do Trabalho.
+=errada= CAT, Engenheiro de Segurança do Trabalho, Médico do Trabalho e Enfermeiro do Trabalho.
+=errada= Médico Ortopedista, CAT, Engenheiro Químico, Médico do Trabalho.
+
+2-O que significa CAT?
+=errada= Comunicado de Acidente do Trabalho.
+=errada= Carteira Automática de Trabalho.
+
+=certa= Comunicação de Acidente do Trabalho.
+
+=errada= Carta de Acidente de Trabalho.
+
+3-O que é CIPA?
+=errada= Comissão Interna de Prevenção Agrária.
+
+=certa= Comissão Interna de Prevenção de Acidentes.
+
+=errada= Contribuição Interna Para Prevenção de Acidentes.
+=errada= Nenhuma das Alternativas.
+
+4-Quais os Tipos de Acidente de Trabalho?
+=errada= Típico, Atípico e Rotineiro.
+=certa= Típico, De trajeto e Atípico.
+
+=errado= Atípico, Fora do Trajeto, Típico.
+=errado= De Trajeto, Tropical e Atípico.
+
+5-Qual dos profissionais a seguir não faz parte do SESMT?
+-Enfermeiro do Trabalho.
+-resposta= - Fisioterapeuta do Trabalho.
+-Auxiliar de Enfermagem do Trabalho.
+-Engenheiro de Segurança do Trabalho.
+
+6-Qual a definição correta de LER.
+=errada= Lesão por Estudo Repetitivo.
+=errada= legalização do Esforço Repetitivo.
+=certa= Lesão por Esforço Repetitivo.
+=errada= Lei do Estudo repetitivo.
+
+7-Quais as cores do Mapa de Riscos de Acidentes do Trabalho?
+=certa= Verde, Vermelho, Marrom, Amarelo e Azul.
+=errada= Azul, Roxo, Verde, Vermelho, Lilás.
+=errada= Vermelho, verde, Preto e Azul.
+=errada= Verde, Vermelho, Cinza, Amarelo e Azul.
+
+8-Qual a definição de EPI.
+=errada= Equipamento de proteção ímpar.
+=errada= Eixo de Proteção Individual.
+=errada= Equipamento Peculiar Individual.
+=certa= Equipamento de Proteção Individual.
+
+9-Do que se trata a NR-5?
+=errada= PPRA.
+=errada= PCMSO.
+=errada= AET.
+=certa= CIPA.
+
+10-O que é CLT?
+=errada= Consolidação Legal do Trabalho.
+=certa= Consolidação das Leis do Trabalho.
+=errada= Confederação das Leis Trabalhistas.
+=errada= Consolidação Legal do Trabalho.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
